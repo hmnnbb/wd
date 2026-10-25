@@ -1,0 +1,13 @@
+﻿# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.dll
+
+# 系统/编辑器杂项
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
