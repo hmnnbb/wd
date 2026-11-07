@@ -1,10 +1,17 @@
-﻿# 编译产物
+# 编译产物
 *.exe
 *.o
 *.obj
 *.out
 *.a
 *.dll
+
+# MinGW 编译出来没带 .exe 后缀的可执行文件
+/hm/10.22
+/hm/10.26.2
+
+# VSCode 配置备份快照
+.vscode/backup-*/
 
 # 系统/编辑器杂项
 Thumbs.db
